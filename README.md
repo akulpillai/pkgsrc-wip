@@ -3,6 +3,7 @@
 You can find an overall summary of the project, and track progress by going through the following reports:
 - [GSoC 2019 1st Evaluation Report](http://blog.netbsd.org/tnf/entry/adapting_triforceafl_for_netbsd_part)
 - [GSoC 2019 2nd Evaluation Report](http://blog.netbsd.org/tnf/entry/adapting_triforceafl_for_netbsd_part1)
+- [GSoC 2019 3rd Evaluation Report](http://blog.netbsd.org/tnf/entry/adapting_triforceafl_for_netbsd_part2)
 
 The TriforceNetBSDSyscallFuzzer repo can be found [here](https://github.com/akulpillai/TriforceNetBSDSyscallFuzzer). You can find almost all of the relevant code and documentation there.
 
